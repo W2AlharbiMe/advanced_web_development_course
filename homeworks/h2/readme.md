@@ -30,3 +30,10 @@
 تحتوي على جدول مصمم بال bootstrap   يعرض القيم المرسلة من الصفحة السابقة باستخدام الدالة GET
 
 </div>
+
+
+![img1](https://raw.githubusercontent.com/W2AlharbiMe/advanced-web-development-course/master/homeworks/h2/repo-images/img1.png)
+
+<br>
+
+![img1](https://raw.githubusercontent.com/W2AlharbiMe/advanced-web-development-course/master/homeworks/h2/repo-images/img2.png)
