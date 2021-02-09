@@ -1,5 +1,15 @@
 <div dir="rtl">
 
+![img1](https://raw.githubusercontent.com/W2AlharbiMe/advanced-web-development-course/master/homeworks/h2/repo-images/img1.png)
+
+<br>
+
+![img1](https://raw.githubusercontent.com/W2AlharbiMe/advanced-web-development-course/master/homeworks/h2/repo-images/img2.png)
+
+</div>
+
+<div dir="rtl">
+
 قم بإنشاء تطبيق إنترنت يحتوي على  صفحتين :
 الصفحة اﻷولى :index.php 
 
@@ -32,8 +42,3 @@
 </div>
 
 
-![img1](https://raw.githubusercontent.com/W2AlharbiMe/advanced-web-development-course/master/homeworks/h2/repo-images/img1.png)
-
-<br>
-
-![img1](https://raw.githubusercontent.com/W2AlharbiMe/advanced-web-development-course/master/homeworks/h2/repo-images/img2.png)
